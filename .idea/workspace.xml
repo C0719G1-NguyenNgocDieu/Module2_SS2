@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f6908b-93b7-4317-9143-daddc05716be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StudentPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,9 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentPassing">
-    <configuration name="ArrayConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayConvert" />
+  <component name="RunManager" selected="Application.ArrayAdd">
+    <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
       <module name="SS2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayAdd" />
         <item itemvalue="Application.StudentPassing" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ValueAdd" />
         <item itemvalue="Application.MinValue" />
-        <item itemvalue="Application.ArrayConvert" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,8 @@
       <workItem from="1567990301893" duration="211000" />
       <workItem from="1567996546606" duration="3192000" />
       <workItem from="1568000498242" duration="4427000" />
-      <workItem from="1568010843159" duration="11565000" />
+      <workItem from="1568010843159" duration="12361000" />
+      <workItem from="1568034721236" duration="1436000" />
     </task>
     <servers />
   </component>
