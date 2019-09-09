@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f6908b-93b7-4317-9143-daddc05716be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SS2/String_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SS2/String_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Count.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.String_Count">
     <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
       <module name="SS2" />
@@ -82,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.String_Count" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ArrayValue_Delete" />
         <item itemvalue="Application.ArrayAdd" />
         <item itemvalue="Application.StudentPassing" />
@@ -106,7 +106,7 @@
       <workItem from="1567996546606" duration="3192000" />
       <workItem from="1568000498242" duration="4427000" />
       <workItem from="1568010843159" duration="12361000" />
-      <workItem from="1568034721236" duration="5869000" />
+      <workItem from="1568034721236" duration="7780000" />
     </task>
     <servers />
   </component>
