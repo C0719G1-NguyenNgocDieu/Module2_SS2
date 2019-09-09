@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f6908b-93b7-4317-9143-daddc05716be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentPassing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,16 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.StudentPassing">
     <configuration name="ArrayConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayConvert" />
-      <module name="SS2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMax" />
       <module name="SS2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentPassing" />
+      <module name="SS2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValueAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValueAdd" />
       <module name="SS2" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentPassing" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ValueAdd" />
         <item itemvalue="Application.MinValue" />
         <item itemvalue="Application.ArrayConvert" />
-        <item itemvalue="Application.ArrayMax" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <workItem from="1567990301893" duration="211000" />
       <workItem from="1567996546606" duration="3192000" />
       <workItem from="1568000498242" duration="4427000" />
-      <workItem from="1568010843159" duration="10101000" />
+      <workItem from="1568010843159" duration="11565000" />
     </task>
     <servers />
   </component>
