@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f6908b-93b7-4317-9143-daddc05716be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValueAdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinValue">
+  <component name="RunManager" selected="Application.ValueAdd">
     <configuration name="ArrayConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayConvert" />
       <module name="SS2" />
@@ -72,19 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SomeRead" />
+    <configuration name="ValueAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValueAdd" />
+      <module name="SS2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValueAdd" />
         <item itemvalue="Application.MinValue" />
         <item itemvalue="Application.ArrayConvert" />
         <item itemvalue="Application.ArrayMax" />
         <item itemvalue="Application.ArraySearch" />
-        <item itemvalue="Application.SomeRead" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +104,7 @@
       <workItem from="1567990301893" duration="211000" />
       <workItem from="1567996546606" duration="3192000" />
       <workItem from="1568000498242" duration="4427000" />
-      <workItem from="1568010843159" duration="3563000" />
+      <workItem from="1568010843159" duration="7041000" />
     </task>
     <servers />
   </component>
