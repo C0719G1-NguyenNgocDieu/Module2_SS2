@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f6908b-93b7-4317-9143-daddc05716be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DiagonalLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Column_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SS2/DiagonalLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SS2/DiagonalLine.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +44,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalLine">
-    <configuration name="ArrayValue_Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayValue_Delete" />
+  <component name="RunManager" selected="Application.Column_Sum">
+    <configuration name="Column_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Column_Sum" />
       <module name="SS2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Column_Sum" />
         <item itemvalue="Application.DiagonalLine" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.String_Count" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ArrayValue_Delete" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +109,8 @@
       <workItem from="1568034721236" duration="7983000" />
       <workItem from="1568069194194" duration="701000" />
       <workItem from="1568076867237" duration="302000" />
-      <workItem from="1568083027460" duration="4129000" />
+      <workItem from="1568083027460" duration="5610000" />
+      <workItem from="1568097509894" duration="1697000" />
     </task>
     <servers />
   </component>
@@ -143,8 +145,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DiagonalLine.java</url>
-          <line>41</line>
+          <line>37</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Column_Sum.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
